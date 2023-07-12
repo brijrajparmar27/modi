@@ -1,0 +1,42 @@
+.my-card-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+
+.my-card {
+  width: 100%;
+  max-width: 500px;
+}
+
+.body {
+  margin-left: 1%;
+}
+.my-card-slider {
+  width: 50%;
+  color: #464775 !important;
+  &:hover {
+    color: #464775 !important;
+  }
+}
+
+.my-card-button {
+  /* Add your Button styles here */
+  font-size: small !important;
+  background-color: #464775 !important;
+  &:hover {
+    background-color: #464775 !important;
+  }
+}
+
+.my-card-generate-button {
+  font-size: smaller !important;
+  background-color: #464775 !important;
+  &:hover {
+    background-color: #464775 !important;
+  }
+}
+
+.css-eg0mwd-MuiSlider-thumb {
+  width: 10px !important;
+}

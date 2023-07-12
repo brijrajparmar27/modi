@@ -1,0 +1,38 @@
+name,date,type,hours,memo
+John Doe,01-06-2023,new,4,Meeting with client
+Jane Smith,02-06-2023,old,8,Project research
+Michael Johnson,03-06-2023,new,6,Team meeting
+Emily Brown,04-06-2023,new,5,Report preparation
+David Wilson,05-06-2023,old,3,Training session
+Sarah Thompson,06-06-2023,new,7,Data analysis
+Christopher Lee,07-06-2023,new,4,Documentation review
+Jessica Davis,08-06-2023,old,8,Project planning
+Matthew Taylor,09-06-2023,new,6,Client presentation
+Olivia Anderson,10-06-2023,new,5,Task coordination
+Andrew Martinez,11-06-2023,old,3,Task prioritization
+Emma Hernandez,12-06-2023,new,7,Meeting with stakeholders
+Daniel Miller,13-06-2023,new,4,Code optimization
+Sophia Clark,14-06-2023,old,8,User interface design
+Joseph Thomas,15-06-2023,new,6,Report generation
+Ava Rodriguez,16-06-2023,new,5,Data validation
+Joshua Perez,17-06-2023,old,3,Requirement gathering
+Mia Moore,18-06-2023,new,7,Task allocation
+William Garcia,19-06-2023,new,4,Code debugging
+Abigail Wilson,20-06-2023,old,8,Project review
+James Anderson,21-06-2023,new,6,Client meeting
+Charlotte Brown,22-06-2023,new,5,Task completion
+Ethan Jackson,23-06-2023,old,3,Task tracking
+Amelia Taylor,24-06-2023,new,7,Design brainstorming
+Benjamin Thompson,25-06-2023,new,4,Code testing
+Grace Davis,26-06-2023,old,8,User feedback analysis
+Daniel Rodriguez,27-06-2023,new,6,Report formatting
+Olivia Hernandez,28-06-2023,new,5,Data visualization
+Liam Moore,29-06-2023,old,3,Task evaluation
+Sophia Martinez,30-06-2023,old,7,Feature implementation
+John Doe,02-06-2023,new,4,Meeting with client
+John Doe,02-06-2023,old,1.5,Meeting with client
+John Doe,02-06-2023,new,4,Meeting with client
+John Doe,03-06-2023,new,4,Meeting with client
+John Doe,01-06-2023,new,4,Meeting with client
+John Doe,01-06-2023,new,4,Meeting with client
+John Doe,01-06-2023,new,4,Meeting with client
